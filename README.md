@@ -20,7 +20,7 @@
 ### Hi, I'm Wojtek
 🌟 Aspiring Junior Front-End Developer | Problem Solver | Board games Enthusiast 🌟
 
-I’m on a journey to transition from running a small family business to the exciting world of front-end web development. With a love for bouldering, archery computer and board games I bring a unique blend of determination and creativity to my coding projects. 
+I’m on a journey to transition from running a small family business to the exciting world of front-end web development. With a love for bouldering, archery, computer and board games I bring a unique blend of determination and creativity to my coding projects. 
 
 ### Let’s Connect!
 I’m always up for collaboration, learning, and sharing knowledge. Feel free to reach out—I’d love to chat about code or the latest game releases!
